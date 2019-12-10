@@ -47,7 +47,7 @@ grannland <- treemap_brewer(id = granner$Land, group = granner$Land,
                             color = granner$ export_mean,
                             textcol = "black",
                             linecol = "black",
-                            pal = "GnBu",
+                            pal = "Greens",
                             main = "Sveriges handel med grannländer inom EU"
 )
 
